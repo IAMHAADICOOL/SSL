@@ -1,6 +1,6 @@
 # Underwater Passive Localization System (45 kHz Beacon Edition)
 
-![banner](docs/banner.png)
+
 
 **Real-time 3-hydrophone, 3-D direction-finding system** based on
 “**Three-Dimensional Passive Localization Method for Underwater Target Using Regular Triangular Array**” (Sun et al., 2019).  
